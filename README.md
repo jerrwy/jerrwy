@@ -1,15 +1,5 @@
 <img src="https://github.com/YouEclipse/YouEclipse/blob/master/mario.gif" width="100">
 
-### Hi there 👋
-
-#### About me
-
-- 🔭 I’m currently working on [KLOOK](https://www.klook.com) as a backend engineer.
-- 🌱 I’m currently learning [Kubernetes](https://kubernetes.io) and [Istio](https://istio.io).
-- 💬 Ask me about anything.
-- 🛩️ How to reach me: [@YouEclipse](https://t.me/YouEclipse).
-- 🎮 A Nintendo fan and FPS games lover , you can also find me on [Steam](https://steamcommunity.com/id/jiangzhangzhe).
-
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/macOS-Catalina-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/catalina/)>)
